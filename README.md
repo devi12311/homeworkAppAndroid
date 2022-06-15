@@ -13,7 +13,7 @@ The main page where the students can interact is a webpage that is built to make
 Specifications
 # Infrastructure overview 
 
-<img src="https://ibb.co/X749VNj" width="300">
+<a href="https://ibb.co/X749VNj"><img src="https://i.ibb.co/T4TZrpY/Homework-App-infrastructure.png" alt="Homework-App-infrastructure" border="0" /></a>
 
 # Financial Perspective
 First Stage
