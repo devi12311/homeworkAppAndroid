@@ -16,9 +16,9 @@ Specifications
 <a href="https://ibb.co/X749VNj"><img src="https://i.ibb.co/T4TZrpY/Homework-App-infrastructure.png" alt="Homework-App-infrastructure" border="0" /></a>
 
 # Financial Perspective
-First Stage
+First Stage <br />
 The application is not intended to earn revenue in the first stage because these are the basic functionalities that do not require payment. The only feature that can be added are ads , in order just to cover the infrastructure expenses and nothing more.
-Second Stage
+Second Stage <br />
 The application can include the basic functionalities for free and the user , in this case the student can buy a premium subscription in order to access the premium features. 
 Online chat - students can chat with each others , share homeworks and edit them 
 Document upload - students can upload homework documents 
