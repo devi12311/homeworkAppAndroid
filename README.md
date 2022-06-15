@@ -2,9 +2,9 @@
  
 15/06/2022
 ─
-Devis Arapi __
-Professor : Marin Aranitasi__
-Subject : Mobile Application Development__
+Devis Arapi <br />
+Professor : Marin Aranitasi <br />
+Subject : Mobile Application Development <br />
 
 # Overview
 The main purpose of this project is to help students reorganize their school components such as subjects , homeworks , exams in order to keep track of their progress every day.
