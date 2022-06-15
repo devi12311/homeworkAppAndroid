@@ -17,10 +17,10 @@ Specifications
 
 # Financial Perspective
 First Stage <br />
-The application is not intended to earn revenue in the first stage because these are the basic functionalities that do not require payment. The only feature that can be added are ads , in order just to cover the infrastructure expenses and nothing more.
+The application is not intended to earn revenue in the first stage because these are the basic functionalities that do not require payment. The only feature that can be added are ads , in order just to cover the infrastructure expenses and nothing more. <br />
 Second Stage <br />
-The application can include the basic functionalities for free and the user , in this case the student can buy a premium subscription in order to access the premium features. 
-Online chat - students can chat with each others , share homeworks and edit them 
-Document upload - students can upload homework documents 
-Push notifications and reminders - alerts when the students homeworks deadlines are expiring.
-Email notification - Personalised reports for the students 
+The application can include the basic functionalities for free and the user , in this case the student can buy a premium subscription in order to access the premium features. <br />
+Online chat - students can chat with each others , share homeworks and edit them <br />
+Document upload - students can upload homework documents <br />
+Push notifications and reminders - alerts when the students homeworks deadlines are expiring.<br />
+Email notification - Personalised reports for the students <br />
