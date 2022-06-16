@@ -3,7 +3,6 @@
 15/06/2022
 ─
 Devis Arapi <br />
-Professor : Marin Aranitasi <br />
 Subject : Mobile Application Development <br />
 
 # Overview
